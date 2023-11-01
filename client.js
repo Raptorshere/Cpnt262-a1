@@ -3,8 +3,9 @@ const imageArray = [
     src: "images/book.svg",
     alt: "book logo"
   }
-];
 
+];
+// <!--rest of the images were not added-->
 'HI ${NAME}'
 
 // SIDENAV
