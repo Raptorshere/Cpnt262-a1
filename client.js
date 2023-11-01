@@ -1,14 +1,9 @@
 const imageArray = [
   {
-    src: "images/image-2.jpg",
-    alt: "description"
+    src: "images/book.svg",
+    alt: "book logo"
   }
 ];
-
-imageArray.map((image) => {
-  return <img src={image.src}
-  alt={image.alt} />;
-});
 
 'HI ${NAME}'
 
