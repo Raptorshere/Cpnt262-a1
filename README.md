@@ -1,6 +1,6 @@
 # Cpnt262-a1
 
-# Kevin Fula, Cpnt262-a1
+# Kevin Fula, Webpage to Life
 
 ## Code Journal:
 
